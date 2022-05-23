@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethan-fong
-- 👀 I’m interested in machine learning models, and the potential of applying that to FPGAs
-- 🌱 I’m currently learning about transformer neural networks in the context of natural language processing
+- 👀 I’m interested in software and digital systems design
+- 🌱 I’m currently learning about machine learning models, and the potential of applying that to FPGA accelerated datacentres
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: ethan.fong@mail.utoronto.ca
 
