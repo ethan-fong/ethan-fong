@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ethan-fong
-- 👀 I’m interested in web development and digital systems design
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in HCI and OS
 - 📫 How to reach me: ethan.fong@mail.utoronto.ca
 
 <!---
