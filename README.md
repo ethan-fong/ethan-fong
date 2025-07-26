@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ethan-fong
-- 👀 I’m interested in HCI and OS
+- 👀 I’m interested in HCI (with a focus on educational tools)
 - 📫 How to reach me: ethan.fong@mail.utoronto.ca
 
 <!---
