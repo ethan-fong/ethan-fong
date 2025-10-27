@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ethan-fong
 - 👀 I’m interested in HCI and visualization (with a focus on educational tools)
-- 📫 How to reach me: ethan.fong@mail.utoronto.ca
+- 📫 How to reach me: ethan.fong@mail.utoronto.ca (alternatively, ethanfong83@gmail.com)
+
 
 <!---
 ethan-fong/ethan-fong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
